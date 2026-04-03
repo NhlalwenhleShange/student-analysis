@@ -13,4 +13,4 @@ Python (CSV handling)
 This project analyses student performance data and generates insights using Python.
 
 ## Output:
-(Add screenshots here)
+(output.png)
